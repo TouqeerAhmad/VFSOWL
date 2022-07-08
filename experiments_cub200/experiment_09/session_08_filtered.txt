@@ -1,0 +1,4 @@
+CUB_200_2011/images/144.Common_Tern/Common_Tern_0100_149541.jpg
+CUB_200_2011/images/144.Common_Tern/Common_Tern_0085_147937.jpg
+CUB_200_2011/images/145.Elegant_Tern/Elegant_Tern_0061_150524.jpg
+CUB_200_2011/images/146.Forsters_Tern/Forsters_Tern_0121_151385.jpg

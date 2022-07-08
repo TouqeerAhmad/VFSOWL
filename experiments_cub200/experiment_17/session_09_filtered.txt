@@ -1,0 +1,9 @@
+CUB_200_2011/images/129.Song_Sparrow/Song_Sparrow_0110_120872.jpg
+CUB_200_2011/images/130.Tree_Sparrow/Tree_Sparrow_0125_123078.jpg
+CUB_200_2011/images/130.Tree_Sparrow/Tree_Sparrow_0032_123489.jpg
+CUB_200_2011/images/131.Vesper_Sparrow/Vesper_Sparrow_0076_125737.jpg
+CUB_200_2011/images/131.Vesper_Sparrow/Vesper_Sparrow_0002_125454.jpg
+CUB_200_2011/images/131.Vesper_Sparrow/Vesper_Sparrow_0013_109937.jpg
+CUB_200_2011/images/133.White_throated_Sparrow/White_Throated_Sparrow_0071_128915.jpg
+CUB_200_2011/images/133.White_throated_Sparrow/White_Throated_Sparrow_0069_128951.jpg
+CUB_200_2011/images/133.White_throated_Sparrow/White_Throated_Sparrow_0134_129190.jpg

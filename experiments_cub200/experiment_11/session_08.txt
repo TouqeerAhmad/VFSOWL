@@ -1,0 +1,7 @@
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0069_796709.jpg
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0063_796714.jpg
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0039_107864.jpg
+CUB_200_2011/images/117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0104_110699.jpg
+CUB_200_2011/images/118.House_Sparrow/House_Sparrow_0092_111413.jpg
+CUB_200_2011/images/118.House_Sparrow/House_Sparrow_0145_112703.jpg
+CUB_200_2011/images/119.Field_Sparrow/Field_Sparrow_0102_113595.jpg

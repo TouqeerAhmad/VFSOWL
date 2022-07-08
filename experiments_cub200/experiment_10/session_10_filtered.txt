@@ -1,0 +1,13 @@
+CUB_200_2011/images/142.Black_Tern/Black_Tern_0004_143881.jpg
+CUB_200_2011/images/142.Black_Tern/Black_Tern_0013_143892.jpg
+CUB_200_2011/images/145.Elegant_Tern/Elegant_Tern_0009_150954.jpg
+CUB_200_2011/images/146.Forsters_Tern/Forsters_Tern_0016_152463.jpg
+CUB_200_2011/images/147.Least_Tern/Least_Tern_0042_153809.jpg
+CUB_200_2011/images/148.Green_tailed_Towhee/Green_Tailed_Towhee_0042_154801.jpg
+CUB_200_2011/images/148.Green_tailed_Towhee/Green_Tailed_Towhee_0096_154945.jpg
+CUB_200_2011/images/149.Brown_Thrasher/Brown_Thrasher_0100_155129.jpg
+CUB_200_2011/images/149.Brown_Thrasher/Brown_Thrasher_0095_155082.jpg
+CUB_200_2011/images/150.Sage_Thrasher/Sage_Thrasher_0014_155541.jpg
+CUB_200_2011/images/150.Sage_Thrasher/Sage_Thrasher_0071_155642.jpg
+CUB_200_2011/images/150.Sage_Thrasher/Sage_Thrasher_0052_155605.jpg
+CUB_200_2011/images/151.Black_capped_Vireo/Black_Capped_Vireo_0030_155861.jpg

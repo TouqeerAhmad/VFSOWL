@@ -1,0 +1,13 @@
+CUB_200_2011/images/136.Barn_Swallow/Barn_Swallow_0045_130244.jpg
+CUB_200_2011/images/136.Barn_Swallow/Barn_Swallow_0075_130014.jpg
+CUB_200_2011/images/136.Barn_Swallow/Barn_Swallow_0077_130707.jpg
+CUB_200_2011/images/136.Barn_Swallow/Barn_Swallow_0048_132793.jpg
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0050_134054.jpg
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0071_133742.jpg
+CUB_200_2011/images/138.Tree_Swallow/Tree_Swallow_0117_134925.jpg
+CUB_200_2011/images/138.Tree_Swallow/Tree_Swallow_0060_134961.jpg
+CUB_200_2011/images/141.Artic_Tern/Artic_Tern_0073_143486.jpg
+CUB_200_2011/images/141.Artic_Tern/Artic_Tern_0092_141849.jpg
+CUB_200_2011/images/141.Artic_Tern/Artic_Tern_0124_142121.jpg
+CUB_200_2011/images/142.Black_Tern/Black_Tern_0055_144607.jpg
+CUB_200_2011/images/142.Black_Tern/Black_Tern_0013_143892.jpg

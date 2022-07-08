@@ -1,0 +1,5 @@
+CUB_200_2011/images/111.Loggerhead_Shrike/Loggerhead_Shrike_0048_106215.jpg
+CUB_200_2011/images/113.Baird_Sparrow/Baird_Sparrow_0049_787324.jpg
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0032_796702.jpg
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0036_107695.jpg
+CUB_200_2011/images/119.Field_Sparrow/Field_Sparrow_0101_113762.jpg

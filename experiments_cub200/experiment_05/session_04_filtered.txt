@@ -1,0 +1,15 @@
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0005_108931.jpg
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0012_108576.jpg
+CUB_200_2011/images/117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0062_110908.jpg
+CUB_200_2011/images/117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0071_110656.jpg
+CUB_200_2011/images/117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0005_110911.jpg
+CUB_200_2011/images/117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0064_110664.jpg
+CUB_200_2011/images/119.Field_Sparrow/Field_Sparrow_0078_113575.jpg
+CUB_200_2011/images/120.Fox_Sparrow/Fox_Sparrow_0036_115581.jpg
+CUB_200_2011/images/120.Fox_Sparrow/Fox_Sparrow_0039_114816.jpg
+CUB_200_2011/images/121.Grasshopper_Sparrow/Grasshopper_Sparrow_0001_115938.jpg
+CUB_200_2011/images/121.Grasshopper_Sparrow/Grasshopper_Sparrow_0072_115663.jpg
+CUB_200_2011/images/122.Harris_Sparrow/Harris_Sparrow_0025_116648.jpg
+CUB_200_2011/images/123.Henslow_Sparrow/Henslow_Sparrow_0107_796614.jpg
+CUB_200_2011/images/124.Le_Conte_Sparrow/Le_Conte_Sparrow_0056_795178.jpg
+CUB_200_2011/images/124.Le_Conte_Sparrow/Le_Conte_Sparrow_0072_795230.jpg

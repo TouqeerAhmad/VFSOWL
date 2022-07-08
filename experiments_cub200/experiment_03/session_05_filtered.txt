@@ -1,0 +1,4 @@
+CUB_200_2011/images/123.Henslow_Sparrow/Henslow_Sparrow_0027_796543.jpg
+CUB_200_2011/images/124.Le_Conte_Sparrow/Le_Conte_Sparrow_0040_117088.jpg
+CUB_200_2011/images/125.Lincoln_Sparrow/Lincoln_Sparrow_0014_117883.jpg
+CUB_200_2011/images/125.Lincoln_Sparrow/Lincoln_Sparrow_0084_117492.jpg

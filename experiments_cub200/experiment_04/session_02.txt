@@ -1,0 +1,12 @@
+CUB_200_2011/images/101.White_Pelican/White_Pelican_0081_96148.jpg
+CUB_200_2011/images/101.White_Pelican/White_Pelican_0042_97250.jpg
+CUB_200_2011/images/101.White_Pelican/White_Pelican_0073_96260.jpg
+CUB_200_2011/images/101.White_Pelican/White_Pelican_0013_96901.jpg
+CUB_200_2011/images/101.White_Pelican/White_Pelican_0010_96876.jpg
+CUB_200_2011/images/101.White_Pelican/White_Pelican_0044_96028.jpg
+CUB_200_2011/images/101.White_Pelican/White_Pelican_0026_95832.jpg
+CUB_200_2011/images/101.White_Pelican/White_Pelican_0084_95877.jpg
+CUB_200_2011/images/102.Western_Wood_Pewee/Western_Wood_Pewee_0068_98024.jpg
+CUB_200_2011/images/103.Sayornis/Sayornis_0130_98678.jpg
+CUB_200_2011/images/103.Sayornis/Sayornis_0081_99508.jpg
+CUB_200_2011/images/103.Sayornis/Sayornis_0019_98636.jpg

@@ -1,0 +1,6 @@
+CUB_200_2011/images/101.White_Pelican/White_Pelican_0012_97261.jpg
+CUB_200_2011/images/101.White_Pelican/White_Pelican_0037_95570.jpg
+CUB_200_2011/images/101.White_Pelican/White_Pelican_0079_97380.jpg
+CUB_200_2011/images/102.Western_Wood_Pewee/Western_Wood_Pewee_0079_795047.jpg
+CUB_200_2011/images/103.Sayornis/Sayornis_0066_98309.jpg
+CUB_200_2011/images/104.American_Pipit/American_Pipit_0082_99867.jpg

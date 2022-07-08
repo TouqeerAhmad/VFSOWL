@@ -1,0 +1,16 @@
+CUB_200_2011/images/178.Swainson_Warbler/Swainson_Warbler_0043_794865.jpg
+CUB_200_2011/images/178.Swainson_Warbler/Swainson_Warbler_0047_794870.jpg
+CUB_200_2011/images/178.Swainson_Warbler/Swainson_Warbler_0032_174728.jpg
+CUB_200_2011/images/179.Tennessee_Warbler/Tennessee_Warbler_0071_175084.jpg
+CUB_200_2011/images/179.Tennessee_Warbler/Tennessee_Warbler_0067_174999.jpg
+CUB_200_2011/images/179.Tennessee_Warbler/Tennessee_Warbler_0095_174903.jpg
+CUB_200_2011/images/180.Wilson_Warbler/Wilson_Warbler_0089_175619.jpg
+CUB_200_2011/images/180.Wilson_Warbler/Wilson_Warbler_0132_175600.jpg
+CUB_200_2011/images/180.Wilson_Warbler/Wilson_Warbler_0059_175249.jpg
+CUB_200_2011/images/180.Wilson_Warbler/Wilson_Warbler_0076_175780.jpg
+CUB_200_2011/images/181.Worm_eating_Warbler/Worm_Eating_Warbler_0015_795570.jpg
+CUB_200_2011/images/182.Yellow_Warbler/Yellow_Warbler_0046_176212.jpg
+CUB_200_2011/images/182.Yellow_Warbler/Yellow_Warbler_0020_176364.jpg
+CUB_200_2011/images/182.Yellow_Warbler/Yellow_Warbler_0121_176402.jpg
+CUB_200_2011/images/182.Yellow_Warbler/Yellow_Warbler_0094_176365.jpg
+CUB_200_2011/images/183.Northern_Waterthrush/Northern_Waterthrush_0022_177003.jpg

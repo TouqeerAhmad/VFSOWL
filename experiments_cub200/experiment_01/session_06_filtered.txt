@@ -1,0 +1,17 @@
+CUB_200_2011/images/134.Cape_Glossy_Starling/Cape_Glossy_Starling_0024_129384.jpg
+CUB_200_2011/images/135.Bank_Swallow/Bank_Swallow_0020_129747.jpg
+CUB_200_2011/images/135.Bank_Swallow/Bank_Swallow_0048_129546.jpg
+CUB_200_2011/images/135.Bank_Swallow/Bank_Swallow_0002_129654.jpg
+CUB_200_2011/images/136.Barn_Swallow/Barn_Swallow_0056_132916.jpg
+CUB_200_2011/images/136.Barn_Swallow/Barn_Swallow_0077_130707.jpg
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0044_133927.jpg
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0055_133624.jpg
+CUB_200_2011/images/138.Tree_Swallow/Tree_Swallow_0103_137272.jpg
+CUB_200_2011/images/141.Artic_Tern/Artic_Tern_0052_143244.jpg
+CUB_200_2011/images/141.Artic_Tern/Artic_Tern_0055_141524.jpg
+CUB_200_2011/images/141.Artic_Tern/Artic_Tern_0026_141839.jpg
+CUB_200_2011/images/142.Black_Tern/Black_Tern_0041_144103.jpg
+CUB_200_2011/images/142.Black_Tern/Black_Tern_0004_143881.jpg
+CUB_200_2011/images/142.Black_Tern/Black_Tern_0061_143959.jpg
+CUB_200_2011/images/142.Black_Tern/Black_Tern_0009_144046.jpg
+CUB_200_2011/images/143.Caspian_Tern/Caspian_Tern_0049_145755.jpg

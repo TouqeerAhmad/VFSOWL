@@ -1,0 +1,14 @@
+CUB_200_2011/images/109.American_Redstart/American_Redstart_0108_103686.jpg
+CUB_200_2011/images/109.American_Redstart/American_Redstart_0090_102940.jpg
+CUB_200_2011/images/109.American_Redstart/American_Redstart_0022_103701.jpg
+CUB_200_2011/images/110.Geococcyx/Geococcyx_0028_104751.jpg
+CUB_200_2011/images/110.Geococcyx/Geococcyx_0112_104548.jpg
+CUB_200_2011/images/111.Loggerhead_Shrike/Loggerhead_Shrike_0024_105593.jpg
+CUB_200_2011/images/112.Great_Grey_Shrike/Great_Grey_Shrike_0079_797018.jpg
+CUB_200_2011/images/112.Great_Grey_Shrike/Great_Grey_Shrike_0020_797052.jpg
+CUB_200_2011/images/112.Great_Grey_Shrike/Great_Grey_Shrike_0032_797021.jpg
+CUB_200_2011/images/113.Baird_Sparrow/Baird_Sparrow_0029_794583.jpg
+CUB_200_2011/images/113.Baird_Sparrow/Baird_Sparrow_0041_794582.jpg
+CUB_200_2011/images/113.Baird_Sparrow/Baird_Sparrow_0016_794556.jpg
+CUB_200_2011/images/113.Baird_Sparrow/Baird_Sparrow_0046_794588.jpg
+CUB_200_2011/images/113.Baird_Sparrow/Baird_Sparrow_0051_787319.jpg

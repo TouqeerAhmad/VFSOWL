@@ -1,0 +1,13 @@
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0049_132965.jpg
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0046_133165.jpg
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0015_133176.jpg
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0066_133206.jpg
+CUB_200_2011/images/138.Tree_Swallow/Tree_Swallow_0058_134987.jpg
+CUB_200_2011/images/138.Tree_Swallow/Tree_Swallow_0067_136244.jpg
+CUB_200_2011/images/138.Tree_Swallow/Tree_Swallow_0046_135770.jpg
+CUB_200_2011/images/139.Scarlet_Tanager/Scarlet_Tanager_0100_138006.jpg
+CUB_200_2011/images/139.Scarlet_Tanager/Scarlet_Tanager_0055_138186.jpg
+CUB_200_2011/images/139.Scarlet_Tanager/Scarlet_Tanager_0079_138669.jpg
+CUB_200_2011/images/140.Summer_Tanager/Summer_Tanager_0001_139289.jpg
+CUB_200_2011/images/141.Artic_Tern/Artic_Tern_0063_142495.jpg
+CUB_200_2011/images/141.Artic_Tern/Artic_Tern_0105_141098.jpg

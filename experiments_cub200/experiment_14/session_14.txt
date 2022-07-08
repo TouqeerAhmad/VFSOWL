@@ -1,0 +1,8 @@
+CUB_200_2011/images/144.Common_Tern/Common_Tern_0098_148785.jpg
+CUB_200_2011/images/144.Common_Tern/Common_Tern_0100_149541.jpg
+CUB_200_2011/images/144.Common_Tern/Common_Tern_0043_147753.jpg
+CUB_200_2011/images/145.Elegant_Tern/Elegant_Tern_0070_147548.jpg
+CUB_200_2011/images/145.Elegant_Tern/Elegant_Tern_0045_150752.jpg
+CUB_200_2011/images/145.Elegant_Tern/Elegant_Tern_0032_150488.jpg
+CUB_200_2011/images/145.Elegant_Tern/Elegant_Tern_0008_145044.jpg
+CUB_200_2011/images/145.Elegant_Tern/Elegant_Tern_0065_151021.jpg

@@ -1,0 +1,17 @@
+CUB_200_2011/images/110.Geococcyx/Geococcyx_0006_104523.jpg
+CUB_200_2011/images/110.Geococcyx/Geococcyx_0105_104239.jpg
+CUB_200_2011/images/110.Geococcyx/Geococcyx_0041_104273.jpg
+CUB_200_2011/images/110.Geococcyx/Geococcyx_0091_104301.jpg
+CUB_200_2011/images/110.Geococcyx/Geococcyx_0047_104259.jpg
+CUB_200_2011/images/111.Loggerhead_Shrike/Loggerhead_Shrike_0116_105286.jpg
+CUB_200_2011/images/112.Great_Grey_Shrike/Great_Grey_Shrike_0032_797021.jpg
+CUB_200_2011/images/112.Great_Grey_Shrike/Great_Grey_Shrike_0057_106681.jpg
+CUB_200_2011/images/112.Great_Grey_Shrike/Great_Grey_Shrike_0045_797047.jpg
+CUB_200_2011/images/113.Baird_Sparrow/Baird_Sparrow_0032_794553.jpg
+CUB_200_2011/images/113.Baird_Sparrow/Baird_Sparrow_0022_794570.jpg
+CUB_200_2011/images/113.Baird_Sparrow/Baird_Sparrow_0027_794590.jpg
+CUB_200_2011/images/113.Baird_Sparrow/Baird_Sparrow_0028_794557.jpg
+CUB_200_2011/images/113.Baird_Sparrow/Baird_Sparrow_0048_787323.jpg
+CUB_200_2011/images/114.Black_throated_Sparrow/Black_Throated_Sparrow_0065_107087.jpg
+CUB_200_2011/images/114.Black_throated_Sparrow/Black_Throated_Sparrow_0072_107255.jpg
+CUB_200_2011/images/114.Black_throated_Sparrow/Black_Throated_Sparrow_0046_107339.jpg

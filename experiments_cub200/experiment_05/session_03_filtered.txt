@@ -1,0 +1,11 @@
+CUB_200_2011/images/109.American_Redstart/American_Redstart_0108_103686.jpg
+CUB_200_2011/images/109.American_Redstart/American_Redstart_0024_103042.jpg
+CUB_200_2011/images/110.Geococcyx/Geococcyx_0036_104173.jpg
+CUB_200_2011/images/111.Loggerhead_Shrike/Loggerhead_Shrike_0048_106215.jpg
+CUB_200_2011/images/112.Great_Grey_Shrike/Great_Grey_Shrike_0014_797044.jpg
+CUB_200_2011/images/112.Great_Grey_Shrike/Great_Grey_Shrike_0092_797048.jpg
+CUB_200_2011/images/114.Black_throated_Sparrow/Black_Throated_Sparrow_0072_107255.jpg
+CUB_200_2011/images/114.Black_throated_Sparrow/Black_Throated_Sparrow_0065_107087.jpg
+CUB_200_2011/images/114.Black_throated_Sparrow/Black_Throated_Sparrow_0086_106970.jpg
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0035_107509.jpg
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0026_107432.jpg

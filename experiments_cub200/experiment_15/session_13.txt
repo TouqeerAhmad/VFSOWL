@@ -1,0 +1,11 @@
+CUB_200_2011/images/133.White_throated_Sparrow/White_Throated_Sparrow_0118_129084.jpg
+CUB_200_2011/images/134.Cape_Glossy_Starling/Cape_Glossy_Starling_0043_129358.jpg
+CUB_200_2011/images/134.Cape_Glossy_Starling/Cape_Glossy_Starling_0012_129225.jpg
+CUB_200_2011/images/134.Cape_Glossy_Starling/Cape_Glossy_Starling_0030_129443.jpg
+CUB_200_2011/images/134.Cape_Glossy_Starling/Cape_Glossy_Starling_0076_129377.jpg
+CUB_200_2011/images/135.Bank_Swallow/Bank_Swallow_0069_129802.jpg
+CUB_200_2011/images/136.Barn_Swallow/Barn_Swallow_0047_130016.jpg
+CUB_200_2011/images/136.Barn_Swallow/Barn_Swallow_0049_130181.jpg
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0045_133591.jpg
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0044_133927.jpg
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0015_133176.jpg

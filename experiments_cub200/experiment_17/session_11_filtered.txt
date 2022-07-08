@@ -1,0 +1,12 @@
+CUB_200_2011/images/141.Artic_Tern/Artic_Tern_0107_141181.jpg
+CUB_200_2011/images/141.Artic_Tern/Artic_Tern_0063_142495.jpg
+CUB_200_2011/images/141.Artic_Tern/Artic_Tern_0089_141652.jpg
+CUB_200_2011/images/141.Artic_Tern/Artic_Tern_0085_142083.jpg
+CUB_200_2011/images/142.Black_Tern/Black_Tern_0053_143882.jpg
+CUB_200_2011/images/142.Black_Tern/Black_Tern_0061_143959.jpg
+CUB_200_2011/images/142.Black_Tern/Black_Tern_0009_144046.jpg
+CUB_200_2011/images/142.Black_Tern/Black_Tern_0097_144724.jpg
+CUB_200_2011/images/142.Black_Tern/Black_Tern_0015_143979.jpg
+CUB_200_2011/images/142.Black_Tern/Black_Tern_0089_144174.jpg
+CUB_200_2011/images/143.Caspian_Tern/Caspian_Tern_0023_147194.jpg
+CUB_200_2011/images/143.Caspian_Tern/Caspian_Tern_0116_145607.jpg

@@ -1,0 +1,9 @@
+CUB_200_2011/images/114.Black_throated_Sparrow/Black_Throated_Sparrow_0078_107298.jpg
+CUB_200_2011/images/114.Black_throated_Sparrow/Black_Throated_Sparrow_0010_107375.jpg
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0069_796709.jpg
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0009_107481.jpg
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0032_796702.jpg
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0023_107489.jpg
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0053_109774.jpg
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0025_108653.jpg
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0005_108931.jpg

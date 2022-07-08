@@ -1,0 +1,6 @@
+CUB_200_2011/images/103.Sayornis/Sayornis_0020_98727.jpg
+CUB_200_2011/images/104.American_Pipit/American_Pipit_0021_100378.jpg
+CUB_200_2011/images/104.American_Pipit/American_Pipit_0074_100154.jpg
+CUB_200_2011/images/104.American_Pipit/American_Pipit_0081_99785.jpg
+CUB_200_2011/images/104.American_Pipit/American_Pipit_0102_99979.jpg
+CUB_200_2011/images/104.American_Pipit/American_Pipit_0058_100218.jpg

@@ -1,0 +1,12 @@
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0001_796718.jpg
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0058_796701.jpg
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0004_107496.jpg
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0038_109234.jpg
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0063_108139.jpg
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0066_109187.jpg
+CUB_200_2011/images/118.House_Sparrow/House_Sparrow_0106_111564.jpg
+CUB_200_2011/images/118.House_Sparrow/House_Sparrow_0130_110985.jpg
+CUB_200_2011/images/118.House_Sparrow/House_Sparrow_0053_111388.jpg
+CUB_200_2011/images/118.House_Sparrow/House_Sparrow_0137_111219.jpg
+CUB_200_2011/images/119.Field_Sparrow/Field_Sparrow_0034_113364.jpg
+CUB_200_2011/images/119.Field_Sparrow/Field_Sparrow_0025_113683.jpg

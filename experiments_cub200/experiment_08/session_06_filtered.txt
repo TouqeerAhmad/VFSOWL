@@ -1,0 +1,16 @@
+CUB_200_2011/images/128.Seaside_Sparrow/Seaside_Sparrow_0067_796532.jpg
+CUB_200_2011/images/128.Seaside_Sparrow/Seaside_Sparrow_0024_120751.jpg
+CUB_200_2011/images/128.Seaside_Sparrow/Seaside_Sparrow_0042_796528.jpg
+CUB_200_2011/images/129.Song_Sparrow/Song_Sparrow_0058_121832.jpg
+CUB_200_2011/images/129.Song_Sparrow/Song_Sparrow_0036_121679.jpg
+CUB_200_2011/images/129.Song_Sparrow/Song_Sparrow_0088_121615.jpg
+CUB_200_2011/images/130.Tree_Sparrow/Tree_Sparrow_0097_123462.jpg
+CUB_200_2011/images/130.Tree_Sparrow/Tree_Sparrow_0057_123665.jpg
+CUB_200_2011/images/131.Vesper_Sparrow/Vesper_Sparrow_0009_125713.jpg
+CUB_200_2011/images/131.Vesper_Sparrow/Vesper_Sparrow_0090_125690.jpg
+CUB_200_2011/images/132.White_crowned_Sparrow/White_Crowned_Sparrow_0034_126199.jpg
+CUB_200_2011/images/132.White_crowned_Sparrow/White_Crowned_Sparrow_0113_128095.jpg
+CUB_200_2011/images/132.White_crowned_Sparrow/White_Crowned_Sparrow_0029_127503.jpg
+CUB_200_2011/images/132.White_crowned_Sparrow/White_Crowned_Sparrow_0099_127213.jpg
+CUB_200_2011/images/133.White_throated_Sparrow/White_Throated_Sparrow_0134_129190.jpg
+CUB_200_2011/images/134.Cape_Glossy_Starling/Cape_Glossy_Starling_0034_129455.jpg

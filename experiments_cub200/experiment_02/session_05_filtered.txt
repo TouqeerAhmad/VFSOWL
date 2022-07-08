@@ -1,0 +1,11 @@
+CUB_200_2011/images/119.Field_Sparrow/Field_Sparrow_0034_113364.jpg
+CUB_200_2011/images/119.Field_Sparrow/Field_Sparrow_0025_113683.jpg
+CUB_200_2011/images/119.Field_Sparrow/Field_Sparrow_0106_113350.jpg
+CUB_200_2011/images/119.Field_Sparrow/Field_Sparrow_0102_113595.jpg
+CUB_200_2011/images/120.Fox_Sparrow/Fox_Sparrow_0104_114908.jpg
+CUB_200_2011/images/121.Grasshopper_Sparrow/Grasshopper_Sparrow_0072_115663.jpg
+CUB_200_2011/images/122.Harris_Sparrow/Harris_Sparrow_0018_116402.jpg
+CUB_200_2011/images/122.Harris_Sparrow/Harris_Sparrow_0038_116610.jpg
+CUB_200_2011/images/123.Henslow_Sparrow/Henslow_Sparrow_0113_116801.jpg
+CUB_200_2011/images/124.Le_Conte_Sparrow/Le_Conte_Sparrow_0021_117105.jpg
+CUB_200_2011/images/125.Lincoln_Sparrow/Lincoln_Sparrow_0070_117342.jpg

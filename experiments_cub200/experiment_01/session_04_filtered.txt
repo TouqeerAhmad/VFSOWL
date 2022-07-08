@@ -1,0 +1,11 @@
+CUB_200_2011/images/118.House_Sparrow/House_Sparrow_0074_111997.jpg
+CUB_200_2011/images/118.House_Sparrow/House_Sparrow_0106_111564.jpg
+CUB_200_2011/images/118.House_Sparrow/House_Sparrow_0059_111164.jpg
+CUB_200_2011/images/119.Field_Sparrow/Field_Sparrow_0095_113842.jpg
+CUB_200_2011/images/121.Grasshopper_Sparrow/Grasshopper_Sparrow_0001_115938.jpg
+CUB_200_2011/images/123.Henslow_Sparrow/Henslow_Sparrow_0021_116931.jpg
+CUB_200_2011/images/124.Le_Conte_Sparrow/Le_Conte_Sparrow_0084_795189.jpg
+CUB_200_2011/images/125.Lincoln_Sparrow/Lincoln_Sparrow_0083_117272.jpg
+CUB_200_2011/images/125.Lincoln_Sparrow/Lincoln_Sparrow_0042_117507.jpg
+CUB_200_2011/images/125.Lincoln_Sparrow/Lincoln_Sparrow_0090_117857.jpg
+CUB_200_2011/images/125.Lincoln_Sparrow/Lincoln_Sparrow_0079_117919.jpg

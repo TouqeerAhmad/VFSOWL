@@ -1,0 +1,9 @@
+CUB_200_2011/images/117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0099_110561.jpg
+CUB_200_2011/images/118.House_Sparrow/House_Sparrow_0008_111204.jpg
+CUB_200_2011/images/118.House_Sparrow/House_Sparrow_0106_111564.jpg
+CUB_200_2011/images/118.House_Sparrow/House_Sparrow_0144_113216.jpg
+CUB_200_2011/images/118.House_Sparrow/House_Sparrow_0074_111997.jpg
+CUB_200_2011/images/119.Field_Sparrow/Field_Sparrow_0043_113607.jpg
+CUB_200_2011/images/119.Field_Sparrow/Field_Sparrow_0102_113595.jpg
+CUB_200_2011/images/120.Fox_Sparrow/Fox_Sparrow_0119_115512.jpg
+CUB_200_2011/images/120.Fox_Sparrow/Fox_Sparrow_0075_114920.jpg

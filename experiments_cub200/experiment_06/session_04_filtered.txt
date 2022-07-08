@@ -1,0 +1,4 @@
+CUB_200_2011/images/118.House_Sparrow/House_Sparrow_0092_111413.jpg
+CUB_200_2011/images/119.Field_Sparrow/Field_Sparrow_0078_113575.jpg
+CUB_200_2011/images/121.Grasshopper_Sparrow/Grasshopper_Sparrow_0050_116301.jpg
+CUB_200_2011/images/122.Harris_Sparrow/Harris_Sparrow_0006_116364.jpg

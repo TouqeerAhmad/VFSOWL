@@ -1,0 +1,12 @@
+CUB_200_2011/images/109.American_Redstart/American_Redstart_0045_102823.jpg
+CUB_200_2011/images/110.Geococcyx/Geococcyx_0036_104173.jpg
+CUB_200_2011/images/110.Geococcyx/Geococcyx_0114_104136.jpg
+CUB_200_2011/images/110.Geococcyx/Geococcyx_0095_104358.jpg
+CUB_200_2011/images/110.Geococcyx/Geococcyx_0096_104369.jpg
+CUB_200_2011/images/110.Geococcyx/Geococcyx_0047_104259.jpg
+CUB_200_2011/images/111.Loggerhead_Shrike/Loggerhead_Shrike_0029_104849.jpg
+CUB_200_2011/images/111.Loggerhead_Shrike/Loggerhead_Shrike_0129_106389.jpg
+CUB_200_2011/images/112.Great_Grey_Shrike/Great_Grey_Shrike_0079_797018.jpg
+CUB_200_2011/images/112.Great_Grey_Shrike/Great_Grey_Shrike_0058_106634.jpg
+CUB_200_2011/images/112.Great_Grey_Shrike/Great_Grey_Shrike_0018_106776.jpg
+CUB_200_2011/images/112.Great_Grey_Shrike/Great_Grey_Shrike_0004_797041.jpg

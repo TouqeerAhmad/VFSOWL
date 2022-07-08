@@ -6,7 +6,9 @@ Implementation for our CVPR workshop paper listed below:
 
 Authors: [Touqeer Ahmad](https://sites.google.com/site/touqeerahmadsite/Touqeer?authuser=0), [Akshay Raj Dhamija](https://akshay-raj-dhamija.github.io/), [Mohsen Jafarzadeh](http://www.mohsen-jafarzadeh.com/index.php), [Steve Cruz](https://scholar.google.com/citations?user=_zl-yoMAAAAJ&hl=en), [Ryan Rabinowitz](https://scholar.google.com/citations?hl=en&user=w-3eXsMAAAAJ), [Chunchun Li](https://scholar.google.com/citations?user=xPJiRT0AAAAJ&hl=en), and [Terrance E. Boult](https://vast.uccs.edu/~tboult/) 
 
+The paper is focused on Variable Few-Shot Class Class Incremental (VFSCIL) and Variable Few-Shot Open-World Learning (VFSOWL). Unlike earlier approaches on Few-Shot Class Incremental Learning (FSCIL) that assume fixed number of classes (N-ways) and fixed number of samples (K-shots), VFSCIL operates in a more natural/practical setting where each incremental session could have up-to-N-classes (ways) and each class could have up-to-K-samples (shots). VFSCIL is then extended into VFSOWL.
 
+The approach extended for VFSCIL/VFSOWL stems from our concurrent work on FSCIL named [FeSSSS](https://github.com/TouqeerAhmad/FeSSSS).
 
 
 

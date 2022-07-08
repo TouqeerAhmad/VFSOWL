@@ -1,0 +1,13 @@
+CUB_200_2011/images/130.Tree_Sparrow/Tree_Sparrow_0023_124956.jpg
+CUB_200_2011/images/131.Vesper_Sparrow/Vesper_Sparrow_0009_125713.jpg
+CUB_200_2011/images/132.White_crowned_Sparrow/White_Crowned_Sparrow_0100_126267.jpg
+CUB_200_2011/images/132.White_crowned_Sparrow/White_Crowned_Sparrow_0127_126923.jpg
+CUB_200_2011/images/132.White_crowned_Sparrow/White_Crowned_Sparrow_0140_125967.jpg
+CUB_200_2011/images/133.White_throated_Sparrow/White_Throated_Sparrow_0027_128847.jpg
+CUB_200_2011/images/133.White_throated_Sparrow/White_Throated_Sparrow_0002_129057.jpg
+CUB_200_2011/images/133.White_throated_Sparrow/White_Throated_Sparrow_0015_129138.jpg
+CUB_200_2011/images/134.Cape_Glossy_Starling/Cape_Glossy_Starling_0092_129349.jpg
+CUB_200_2011/images/135.Bank_Swallow/Bank_Swallow_0017_129755.jpg
+CUB_200_2011/images/135.Bank_Swallow/Bank_Swallow_0045_129483.jpg
+CUB_200_2011/images/136.Barn_Swallow/Barn_Swallow_0047_130016.jpg
+CUB_200_2011/images/136.Barn_Swallow/Barn_Swallow_0026_132386.jpg

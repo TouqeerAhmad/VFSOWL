@@ -1,0 +1,12 @@
+CUB_200_2011/images/133.White_throated_Sparrow/White_Throated_Sparrow_0002_129057.jpg
+CUB_200_2011/images/133.White_throated_Sparrow/White_Throated_Sparrow_0015_129138.jpg
+CUB_200_2011/images/133.White_throated_Sparrow/White_Throated_Sparrow_0021_128804.jpg
+CUB_200_2011/images/133.White_throated_Sparrow/White_Throated_Sparrow_0069_128951.jpg
+CUB_200_2011/images/133.White_throated_Sparrow/White_Throated_Sparrow_0031_128808.jpg
+CUB_200_2011/images/135.Bank_Swallow/Bank_Swallow_0017_129755.jpg
+CUB_200_2011/images/135.Bank_Swallow/Bank_Swallow_0069_129802.jpg
+CUB_200_2011/images/136.Barn_Swallow/Barn_Swallow_0026_132386.jpg
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0005_133696.jpg
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0050_134054.jpg
+CUB_200_2011/images/138.Tree_Swallow/Tree_Swallow_0062_137426.jpg
+CUB_200_2011/images/138.Tree_Swallow/Tree_Swallow_0127_135912.jpg

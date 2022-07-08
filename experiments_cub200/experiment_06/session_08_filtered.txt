@@ -1,0 +1,16 @@
+CUB_200_2011/images/143.Caspian_Tern/Caspian_Tern_0013_145553.jpg
+CUB_200_2011/images/143.Caspian_Tern/Caspian_Tern_0075_147650.jpg
+CUB_200_2011/images/144.Common_Tern/Common_Tern_0100_149541.jpg
+CUB_200_2011/images/145.Elegant_Tern/Elegant_Tern_0065_151021.jpg
+CUB_200_2011/images/145.Elegant_Tern/Elegant_Tern_0078_151196.jpg
+CUB_200_2011/images/147.Least_Tern/Least_Tern_0062_153259.jpg
+CUB_200_2011/images/147.Least_Tern/Least_Tern_0052_154021.jpg
+CUB_200_2011/images/148.Green_tailed_Towhee/Green_Tailed_Towhee_0043_797430.jpg
+CUB_200_2011/images/148.Green_tailed_Towhee/Green_Tailed_Towhee_0069_797441.jpg
+CUB_200_2011/images/148.Green_tailed_Towhee/Green_Tailed_Towhee_0027_154823.jpg
+CUB_200_2011/images/149.Brown_Thrasher/Brown_Thrasher_0001_155380.jpg
+CUB_200_2011/images/149.Brown_Thrasher/Brown_Thrasher_0072_155406.jpg
+CUB_200_2011/images/150.Sage_Thrasher/Sage_Thrasher_0092_155482.jpg
+CUB_200_2011/images/151.Black_capped_Vireo/Black_Capped_Vireo_0006_797491.jpg
+CUB_200_2011/images/151.Black_capped_Vireo/Black_Capped_Vireo_0027_797455.jpg
+CUB_200_2011/images/151.Black_capped_Vireo/Black_Capped_Vireo_0024_155905.jpg

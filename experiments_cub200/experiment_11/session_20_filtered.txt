@@ -1,0 +1,4 @@
+CUB_200_2011/images/155.Warbling_Vireo/Warbling_Vireo_0076_158500.jpg
+CUB_200_2011/images/156.White_eyed_Vireo/White_Eyed_Vireo_0066_159477.jpg
+CUB_200_2011/images/157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0017_794988.jpg
+CUB_200_2011/images/157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0041_794998.jpg

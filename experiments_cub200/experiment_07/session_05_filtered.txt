@@ -1,0 +1,14 @@
+CUB_200_2011/images/122.Harris_Sparrow/Harris_Sparrow_0073_116577.jpg
+CUB_200_2011/images/122.Harris_Sparrow/Harris_Sparrow_0088_116445.jpg
+CUB_200_2011/images/123.Henslow_Sparrow/Henslow_Sparrow_0069_116832.jpg
+CUB_200_2011/images/123.Henslow_Sparrow/Henslow_Sparrow_0085_116971.jpg
+CUB_200_2011/images/123.Henslow_Sparrow/Henslow_Sparrow_0076_116810.jpg
+CUB_200_2011/images/123.Henslow_Sparrow/Henslow_Sparrow_0064_796573.jpg
+CUB_200_2011/images/125.Lincoln_Sparrow/Lincoln_Sparrow_0088_117634.jpg
+CUB_200_2011/images/126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0019_118066.jpg
+CUB_200_2011/images/126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0002_796908.jpg
+CUB_200_2011/images/127.Savannah_Sparrow/Savannah_Sparrow_0061_119783.jpg
+CUB_200_2011/images/127.Savannah_Sparrow/Savannah_Sparrow_0029_119621.jpg
+CUB_200_2011/images/127.Savannah_Sparrow/Savannah_Sparrow_0047_119365.jpg
+CUB_200_2011/images/127.Savannah_Sparrow/Savannah_Sparrow_0124_118820.jpg
+CUB_200_2011/images/128.Seaside_Sparrow/Seaside_Sparrow_0047_796520.jpg

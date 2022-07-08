@@ -1,0 +1,6 @@
+CUB_200_2011/images/120.Fox_Sparrow/Fox_Sparrow_0093_114757.jpg
+CUB_200_2011/images/120.Fox_Sparrow/Fox_Sparrow_0086_115484.jpg
+CUB_200_2011/images/120.Fox_Sparrow/Fox_Sparrow_0091_115550.jpg
+CUB_200_2011/images/120.Fox_Sparrow/Fox_Sparrow_0118_114884.jpg
+CUB_200_2011/images/121.Grasshopper_Sparrow/Grasshopper_Sparrow_0003_115676.jpg
+CUB_200_2011/images/122.Harris_Sparrow/Harris_Sparrow_0006_116364.jpg

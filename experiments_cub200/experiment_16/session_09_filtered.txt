@@ -1,0 +1,8 @@
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0088_107562.jpg
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0071_108735.jpg
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0037_109851.jpg
+CUB_200_2011/images/117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0056_110848.jpg
+CUB_200_2011/images/117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0071_110656.jpg
+CUB_200_2011/images/120.Fox_Sparrow/Fox_Sparrow_0063_114350.jpg
+CUB_200_2011/images/120.Fox_Sparrow/Fox_Sparrow_0124_114662.jpg
+CUB_200_2011/images/120.Fox_Sparrow/Fox_Sparrow_0077_114944.jpg

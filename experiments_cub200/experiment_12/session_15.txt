@@ -1,0 +1,14 @@
+CUB_200_2011/images/135.Bank_Swallow/Bank_Swallow_0064_129816.jpg
+CUB_200_2011/images/135.Bank_Swallow/Bank_Swallow_0053_129501.jpg
+CUB_200_2011/images/135.Bank_Swallow/Bank_Swallow_0048_129546.jpg
+CUB_200_2011/images/136.Barn_Swallow/Barn_Swallow_0073_131389.jpg
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0058_133060.jpg
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0023_134314.jpg
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0066_133206.jpg
+CUB_200_2011/images/138.Tree_Swallow/Tree_Swallow_0002_136792.jpg
+CUB_200_2011/images/138.Tree_Swallow/Tree_Swallow_0076_137232.jpg
+CUB_200_2011/images/138.Tree_Swallow/Tree_Swallow_0117_134925.jpg
+CUB_200_2011/images/138.Tree_Swallow/Tree_Swallow_0017_135062.jpg
+CUB_200_2011/images/138.Tree_Swallow/Tree_Swallow_0043_136878.jpg
+CUB_200_2011/images/139.Scarlet_Tanager/Scarlet_Tanager_0086_138272.jpg
+CUB_200_2011/images/139.Scarlet_Tanager/Scarlet_Tanager_0058_137710.jpg

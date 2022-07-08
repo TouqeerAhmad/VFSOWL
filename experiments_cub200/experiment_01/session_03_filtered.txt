@@ -1,0 +1,16 @@
+CUB_200_2011/images/110.Geococcyx/Geococcyx_0068_104149.jpg
+CUB_200_2011/images/110.Geococcyx/Geococcyx_0065_104806.jpg
+CUB_200_2011/images/111.Loggerhead_Shrike/Loggerhead_Shrike_0065_104856.jpg
+CUB_200_2011/images/112.Great_Grey_Shrike/Great_Grey_Shrike_0014_797044.jpg
+CUB_200_2011/images/113.Baird_Sparrow/Baird_Sparrow_0049_787324.jpg
+CUB_200_2011/images/114.Black_throated_Sparrow/Black_Throated_Sparrow_0026_107198.jpg
+CUB_200_2011/images/114.Black_throated_Sparrow/Black_Throated_Sparrow_0090_107295.jpg
+CUB_200_2011/images/114.Black_throated_Sparrow/Black_Throated_Sparrow_0011_107115.jpg
+CUB_200_2011/images/114.Black_throated_Sparrow/Black_Throated_Sparrow_0078_107298.jpg
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0046_796696.jpg
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0023_107489.jpg
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0032_796702.jpg
+CUB_200_2011/images/115.Brewer_Sparrow/Brewer_Sparrow_0014_107435.jpg
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0045_109985.jpg
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0012_108576.jpg
+CUB_200_2011/images/116.Chipping_Sparrow/Chipping_Sparrow_0037_109851.jpg

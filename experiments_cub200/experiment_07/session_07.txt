@@ -1,0 +1,7 @@
+CUB_200_2011/images/137.Cliff_Swallow/Cliff_Swallow_0058_133060.jpg
+CUB_200_2011/images/138.Tree_Swallow/Tree_Swallow_0111_135253.jpg
+CUB_200_2011/images/139.Scarlet_Tanager/Scarlet_Tanager_0128_138711.jpg
+CUB_200_2011/images/139.Scarlet_Tanager/Scarlet_Tanager_0055_138186.jpg
+CUB_200_2011/images/140.Summer_Tanager/Summer_Tanager_0032_140425.jpg
+CUB_200_2011/images/140.Summer_Tanager/Summer_Tanager_0066_140621.jpg
+CUB_200_2011/images/141.Artic_Tern/Artic_Tern_0085_142083.jpg
