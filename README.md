@@ -18,7 +18,7 @@ Here we focus the description for CUB200 dataset, similar details follow for min
 * Up-to 5-Ways, Up-to 5-Shots (30 incremental sessions)
 * Up-to 5-Ways, Up-to 10-Shots (30 incremental sessions)
 
-For each experimental setting, we generate 5 experiments and those session files are made available in respective directors inside experiments_cub200 directory for using exactly the same instances as we used in our experiments. The base session is still comprised of 100 classes and 30 samples-per-class. The instances for base session are identical to ealier work on fixed-FSCIL e.g., [CEC](https://github.com/icoz69/CEC-CVPR2021). More experiments for the said experimental settings, or even different experimental settings can be generated using the above stand-alone code file by altering the number of increments and N_ways/K_shots accordingly.       
+For each experimental setting, we generate 5 experiments and those session files are made available in respective directories inside experiments_cub200 directory for using exactly the same instances as we used in our experiments. The base session is still comprised of 100 classes and 30 samples-per-class. The instances for base session are identical to earlier work on fixed-FSCIL e.g., [CEC](https://github.com/icoz69/CEC-CVPR2021). More experiments for the said experimental settings, or even different experimental settings can be generated using the above stand-alone code file by altering the number of increments and N_ways/K_shots accordingly.       
 
 
 
