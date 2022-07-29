@@ -38,8 +38,10 @@ To extract the self-supervised features, run the feature extractor ```FeatureExt
 ### Supervised Feature Extraction
 To extract the supervised features learned using the base-session data of VFSCIL, run the feature extractor ```FeatureExtraction_MocoV2.py``` in respective data set directory by providing the path to the pre-trained supervised model and other required arguments. While any supervised model can be trained using the base-session data, we have specifically used the CEC-based learned models.
 
-
-
+### Checkpoints for Supervised & Self-Supervised Models
+The pre-trained self-supervised models on ImageNet-2012/OpenImages-v6 and supervised models on base session data are available from the following [Google drive link](https://drive.google.com/drive/folders/16H2kYIBpNcPCCM7MaT6LjzgEOPv6zY16?usp=sharing). 
+For self-supervised features, we use models trained on ImageNet-2012 and OpenImages-v6 respectively for experiments on CUB200, and miniImageNet. Specifically, we use ResNet-50 models trained by DeepCluster-v2, and Moco-v2 respectively for CUB200, and miniImageNet.
+In [FeSSSS](https://github.com/TouqeerAhmad/FeSSSS) we found DeepCluster-v2 performed best for FSCIL evaluation and OpenImages-v6 is used for miniImageNet experiments to avoid the overlap between miniImageNet and ImageNet-2012 classes.  
 
 ### BibTeX
 If you find our work helpful, please cite the following:
