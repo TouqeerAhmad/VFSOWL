@@ -10,7 +10,8 @@ Authors: [Touqeer Ahmad](https://sites.google.com/site/touqeerahmadsite/Touqeer?
 
 The paper is focused on Variable Few-Shot Class Class Incremental (VFSCIL) and Variable Few-Shot Open-World Learning (VFSOWL). Unlike earlier approaches on Few-Shot Class Incremental Learning (FSCIL) that assume fixed number of classes (N-ways) and fixed number of samples (K-shots), VFSCIL operates in a more natural/practical setting where each incremental session could have up-to-N-classes (ways) and each class could have up-to-K-samples (shots). VFSCIL is then extended into VFSOWL.
 
-The approach extended for VFSCIL/VFSOWL stems from our concurrent work on FSCIL named [FeSSSS](https://github.com/TouqeerAhmad/FeSSSS).
+The approach extended for VFSCIL/VFSOWL stems from our concurrent work on FSCIL named [FeSSSS](https://github.com/TouqeerAhmad/FeSSSS) where we extended [Continually Evolved Classifiers](https://github.com/icoz69/CEC-CVPR2021). For ease we provide our code integrated into CEC repo where we have made changes to their original code, for licensing of CEC, please consult CEC-authors' original repo. 
+
 
 ## Datasets
 We have conducted our experiments on miniImageNet and CUB200 datasets which are typically employed for fixed-FSCIL. Our self-archived copies of both datasets are available from the following [Google drive link](https://drive.google.com/drive/folders/1aDz6m1CkDsUdnvvHNFWJVks4s6mAUvsE?usp=sharing). 
@@ -29,6 +30,13 @@ First, all the incremental session files are generated using the script ```rando
 For each experimental setting, we generate 5 experiments and those session files are made available in respective directories inside experiments_cub200 directory for using exactly the same instances as we used in our experiments. The base session is still comprised of 100 classes and 30 samples-per-class. The instances for base session are identical to earlier work on fixed-FSCIL e.g., [CEC](https://github.com/icoz69/CEC-CVPR2021). More experiments for the said experimental settings, or even different experimental settings can be generated using the above stand-alone code file by altering the number of increments and N_ways/K_shots accordingly.       
 
 ### Feature Extraction
+The paper is focused on concatenating self-supervised and supervised features respectively learned from a disjoint unlabeled data set and data from the base-session of the VFSCIL/VFSOWL setting. Both types of features are extracted and pre-saved as the first step.  
+
+### Self-Supervised Feature Extraction
+To extract the self-supervised features, run the feature extractor ```FeatureExtraction_MocoV2.py``` in respective data set directory by providing the path to the pre-trained self-supervised model and other required arguments. For example for cub200, the above file is located in CEC_CVPR2021/dataloader/cub200/ directory. A bash file (```temp.sh```) demonstrates running feature extractor for all incremental sessions and saving self-supervised features for 60 random crops per each training sample and one central crop per each validation sample.   
+
+### Supervised Feature Extraction
+To extract the supervised features learned using the base-session data of VFSCIL, run the feature extractor ```FeatureExtraction_MocoV2.py``` in respective data set directory by providing the path to the pre-trained supervised model and other required arguments. While any supervised model can be trained using the base-session data, we have specifically used the CEC-based learned models.
 
 
 
